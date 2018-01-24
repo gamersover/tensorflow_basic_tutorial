@@ -1,3 +1,7 @@
 # TensorFlow基础教程
 
-mlp_mnist.ipynb 简单的多层感知机，用来书写数字识别分类
+basic_model 包含基础模型
+
+model_save_tutorial  模型持久化教程
+
+tensorboard_tutorial tensorboard教程
